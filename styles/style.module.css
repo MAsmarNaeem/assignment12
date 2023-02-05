@@ -1,0 +1,19 @@
+.back {
+    background-color: aqua;
+    margin-top: 20px;
+}
+
+.mod {
+    height: 29px;
+    width: 29px;
+    background-color: aqua;
+}
+
+.len {
+    width: 400px;
+}
+
+.page {
+    background-color: rgb(74, 157, 140);
+    height: 100vh;
+}
